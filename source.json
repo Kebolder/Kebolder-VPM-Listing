@@ -13,7 +13,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "Kebolder/Shaders",
-        "Kebolder/Vrchat-Statesync"
+        "Kebolder/Vrchat-Statesync",
+        "Kebolder/Dev-Tools"
     ],
     "packages":[]
 }
